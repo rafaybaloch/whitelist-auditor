@@ -1,4 +1,4 @@
-# whitelist-auditor
+# Whitelist-Auditor
 
 # Description
 To help Captive Portal vendors and Firewall/DPI administrators, we have written a tool which will audit the whitelist for the following:
