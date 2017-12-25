@@ -1,5 +1,7 @@
 # Whitelist-Auditor
 
+Credits: The author would like to thank Gowdhaman Mohan for assisting with the code. 
+
 # Description
 To help Captive Portal vendors and Firewall/DPI administrators, we have written a tool which will audit the whitelist for the following:
 
